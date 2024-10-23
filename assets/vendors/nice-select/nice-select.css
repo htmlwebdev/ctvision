@@ -46,8 +46,8 @@
     top: 50%;
     margin-top: -4px;
     display: block;
-    border-bottom: 2px solid var(--oxpins-gray);
-    border-right: 2px solid var(--oxpins-gray);
+    border-bottom: 2px solid var(--ctv-gray);
+    border-right: 2px solid var(--ctv-gray);
     content: '';
     width: 7px;
     height: 7px;
@@ -123,8 +123,8 @@
 
 
 .nice-select .list {
-    background-color: var(--oxpins-base);
-    border-radius: var(--oxpins-bdr-radius);
+    background-color: var(--ctv-base);
+    border-radius: var(--ctv-bdr-radius);
     box-sizing: border-box;
     margin-top: 0px;
     opacity: 0;
@@ -168,7 +168,7 @@
 .nice-select .option.focus,
 .nice-select .option.selected.focus {
     color: #ffffff;
-    background-color: var(--oxpins-black);
+    background-color: var(--ctv-black);
 }
 
 .nice-select .option.selected {
@@ -190,6 +190,6 @@
 }
 
 .get-flight-two__inner .nice-select:after {
-    border-bottom: 2px solid var(--oxpins-gray);
-    border-right: 2px solid var(--oxpins-gray);
+    border-bottom: 2px solid var(--ctv-gray);
+    border-right: 2px solid var(--ctv-gray);
 }

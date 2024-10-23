@@ -4,7 +4,7 @@ body.boxed-wrapper .page-wrapper {
 }
 
 .demo-one__card {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
   box-shadow: 0px 10px 60px 0px rgba(255, 255, 255, 0.1);
 }
 
@@ -14,12 +14,12 @@ body.boxed-wrapper .page-wrapper {
 .stricky-header .main-menu__list > li > ul,
 .stricky-header .main-menu__list > li > ul > li > ul,
 .main-header {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
   box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.1);
 }
 
 .main-menu__volunteers-text span::before {
-  background-color: var(--oxpins-white);
+  background-color: var(--ctv-white);
 }
 
 .error-page,
@@ -37,7 +37,7 @@ body.boxed-wrapper .page-wrapper {
 .testimonial-one__carousel.owl-theme .owl-nav .owl-prev,
 .main-menu__right-top-social a {
   background-color: #212d2b;
-  color: var(--oxpins-white);
+  color: var(--ctv-white);
 }
 
 .error-page__form input[type=search],
@@ -62,7 +62,7 @@ body.boxed-wrapper .page-wrapper {
 .about-one__points li .icon:before,
 .events-one,
 .faq-one {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
 }
 
 .about-four__points li .text p,
@@ -100,7 +100,7 @@ body.boxed-wrapper .page-wrapper {
 .faq-one-accrodion .accrodion-title h4,
 .news-one__date p,
 .news-one__title a {
-  color: var(--oxpins-white);
+  color: var(--ctv-white);
 }
 
 .causes-two__tab-box .tab-buttons .tab-btn span,
@@ -160,7 +160,7 @@ body,
 .causes-one__content,
 .causes-one__progress,
 .news-one__content-box {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
   border: 1px solid #324340;
 }
 
@@ -186,32 +186,32 @@ body,
 }
 
 .faq-one-accrodion .accrodion.active .accrodion-title h4 {
-  color: var(--oxpins-primary);
+  color: var(--ctv-primary);
 }
 
 .faq-one-accrodion .accrodion .accrodion-title h4::after {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
 }
 
 .faq-one-accrodion .accrodion-title h4::before {
-  color: var(--oxpins-black);
-  background-color: var(--oxpins-white);
+  color: var(--ctv-black);
+  background-color: var(--ctv-white);
 }
 
 .news-one__date {
-  background-color: var(--oxpins-base);
+  background-color: var(--ctv-base);
 }
 
 .news-one__single .news-one__title:hover a {
-  color: var(--oxpins-primary);
+  color: var(--ctv-primary);
 }
 
 .news-one__single .news-one__read-more:hover a {
-  color: var(--oxpins-primary);
+  color: var(--ctv-primary);
 }
 
 .news-one__single:hover .news-one__share a {
-  color: var(--oxpins-primary);
+  color: var(--ctv-primary);
 }
 
 .causes-one__progress .bar {
@@ -219,36 +219,36 @@ body,
 }
 
 .events-one__carousel.owl-theme .owl-nav .owl-prev {
-  color: rgba(var(--oxpins-white-rgb), 0.2);
-  border: 2px solid rgba(var(--oxpins-white-rgb), 0.2);
+  color: rgba(var(--ctv-white-rgb), 0.2);
+  border: 2px solid rgba(var(--ctv-white-rgb), 0.2);
 }
 
 .events-one__carousel.owl-theme .owl-nav .owl-next {
-  color: rgba(var(--oxpins-white-rgb), 0.2);
-  border: 2px solid rgba(var(--oxpins-white-rgb), 0.2);
+  color: rgba(var(--ctv-white-rgb), 0.2);
+  border: 2px solid rgba(var(--ctv-white-rgb), 0.2);
 }
 
 .events-one__carousel.owl-theme .owl-nav .owl-next:hover,
 .events-one__carousel.owl-theme .owl-nav .owl-prev:hover {
   background-color: transparent;
-  color: rgba(var(--oxpins-white-rgb), 1);
-  border: 2px solid rgba(var(--oxpins-white-rgb), 1);
+  color: rgba(var(--ctv-white-rgb), 1);
+  border: 2px solid rgba(var(--ctv-white-rgb), 1);
 }
 
 .thm-btn:before {
-  background-color: var(--oxpins-white);
+  background-color: var(--ctv-white);
 }
 
 .thm-btn:hover {
-  color: var(--oxpins-base);
+  color: var(--ctv-base);
 }
 
 .feature-one__btn:hover {
-  color: var(--oxpins-black);
+  color: var(--ctv-black);
 }
 
 .feature-one__btn:before {
-  background-color: var(--oxpins-primary);
+  background-color: var(--ctv-primary);
 }
 
 .main-menu-two .main-menu__list > li.current > a,
@@ -263,7 +263,7 @@ body,
 .stricky-header.main-menu-two .main-menu__list > li.current-menu-item > a,
 .stricky-header.main-menu-two .main-menu__list > li.current-menu-page > a,
 .stricky-header.main-menu-two .main-menu__list > li:hover > a {
-  color: var(--oxpins-white);
+  color: var(--ctv-white);
 }
 
 .brand-one .swiper-slide img {
@@ -273,7 +273,7 @@ body,
 /*-- Home Four --*/
 body.home-four-dark,
 body.boxed-wrapper.home-four-dark .page-wrapper {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
 }
 
 .about-five__image,
@@ -284,7 +284,7 @@ body.boxed-wrapper.home-four-dark .page-wrapper {
 .donate-one__form__amount__btn,
 .donate-one__form__amount__input,
 .brand-four__tilte span {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
 }
 
 .main-header-four__inner {
@@ -304,7 +304,7 @@ body.boxed-wrapper.home-four-dark .page-wrapper {
 .thm-btn-two i,
 .testimonial-four,
 .about-pillar__bg {
-  background-color: var(--oxpins-black2);
+  background-color: var(--ctv-black2);
 }
 
 .causes-four__progress .count-text,
@@ -328,12 +328,12 @@ body.boxed-wrapper.home-four-dark .page-wrapper {
 .team-two__single__title,
 .pillar__item__title,
 .section-title__title {
-  color: var(--oxpins-white);
+  color: var(--ctv-white);
 }
 
 .about-five__image__info,
 .pillar__item {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
   filter: drop-shadow(0px 4.94px 37.049px rgba(255, 255, 255, 0.06));
 }
 
@@ -341,31 +341,31 @@ body.boxed-wrapper.home-four-dark .page-wrapper {
 .news-three__single__text,
 .news-three,
 .brand-four__tilte {
-  border-color: rgba(var(--oxpins-white-rgb), 0.1);
+  border-color: rgba(var(--ctv-white-rgb), 0.1);
 }
 
 .main-header-five .demo-one .thm-btn:hover,
 .main-header-four .demo-one .thm-btn:hover {
-  color: var(--oxpins-black);
+  color: var(--ctv-black);
 }
 
 .main-header-four .main-menu .main-menu__list > li > ul > li:hover > a,
 .main-header-four .main-menu .main-menu__list > li > ul > li > ul > li:hover > a,
 .main-header-four.stricky-header .main-menu__list > li > ul > li:hover > a,
 .main-header-four.stricky-header .main-menu__list > li > ul > li > ul > li:hover > a {
-  background-color: var(--oxpins-black2);
+  background-color: var(--ctv-black2);
 }
 
 /*-- Home Five --*/
 body.home-five-dark,
 body.boxed-wrapper.home-five-dark .page-wrapper {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
 }
 
 .feature-five__item__icon,
 .testimonial-five__single,
 .testimonial-five .owl-carousel .owl-nav button {
-  background-color: var(--oxpins-black);
+  background-color: var(--ctv-black);
 }
 
 .main-header-five__inner {
@@ -394,13 +394,13 @@ body.boxed-wrapper.home-five-dark .page-wrapper {
 .faq-three__info__icon,
 .faq-three__info,
 .news-four__single__content {
-  background-color: var(--oxpins-black2);
+  background-color: var(--ctv-black2);
 }
 
 .about-six__image__expriance,
 .news-four__single--reverse .news-four__single__content,
 .news-four__single__content {
-  border-color: var(--oxpins-black2);
+  border-color: var(--ctv-black2);
 }
 
 .main-header-five__search,
@@ -422,22 +422,22 @@ body.boxed-wrapper.home-five-dark .page-wrapper {
 .faq-three__info__title,
 .news-four__single__rm,
 .news-four__single__title {
-  color: var(--oxpins-white);
+  color: var(--ctv-white);
 }
 
 .faq-three__accrodion .accrodion .accrodion-title h4::after {
-  border-color: var(--oxpins-white);
+  border-color: var(--ctv-white);
 }
 
 .feature-five__item__rm::after,
 .feature-five__item__rm::before {
-  background-color: var(--oxpins-white);
+  background-color: var(--ctv-white);
 }
 
 .feature-five__item,
 .faq-three__accrodion .accrodion,
 .brand-four--border {
-  border-color: rgba(var(--oxpins-white-rgb), 0.1);
+  border-color: rgba(var(--ctv-white-rgb), 0.1);
 }
 
 .testimonial-five__single__quote {
@@ -448,5 +448,5 @@ body.boxed-wrapper.home-five-dark .page-wrapper {
 .main-header-five .main-menu .main-menu__list > li > ul > li > ul > li:hover > a,
 .main-header-five.stricky-header .main-menu__list > li > ul > li:hover > a,
 .main-header-five.stricky-header .main-menu__list > li > ul > li > ul > li:hover > a {
-  background-color: var(--oxpins-black2);
+  background-color: var(--ctv-black2);
 }

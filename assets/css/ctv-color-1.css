@@ -1,0 +1,22 @@
+:root {
+  --ctv-gray: #786F6B;
+  --ctv-gray-rgb: 120, 111, 107;
+  --ctv-gray2: #CAB3A8;
+  --ctv-gray2-rgb: 202, 179, 168;
+  --ctv-gray3: #F9F4E8;
+  --ctv-gray3-rgb: 249, 244, 232;
+  --ctv-gray4: #6A574F;
+  --ctv-gray4-rgb: 106, 87, 79;
+  --ctv-base: #5A2005;
+  --ctv-base-rgb: 90, 32, 5;
+  --ctv-black: #2D221D;
+  --ctv-black-rgb: 45, 34, 29;
+  --ctv-black2: #14110F;
+  --ctv-black2-rgb: 20, 17, 15;
+  --ctv-primary: #CFA76E;
+  --ctv-primary-rgb: 207, 167, 110;
+  --ctv-secondary: #844204;
+  --ctv-secondary-rgb: 132, 66, 4;
+  --ctv-bdr-color: #E9E9E9;
+  --ctv-bdr-color-rgb: 233, 228, 217;
+}

@@ -1,0 +1,17 @@
+:root {
+  --ctv-font-two: "Castoro", sans-serif;
+  --ctv-gray: #868686;
+  --ctv-gray-rgb: 134, 134, 134;
+  --ctv-base: #EB582F;
+  --ctv-base-rgb: 235, 88, 47;
+  --ctv-black: #272727;
+  --ctv-black-rgb: 39, 39, 39;
+  --ctv-black2: #161616;
+  --ctv-black2-rgb: 22, 22, 22;
+  --ctv-primary: #D34118;
+  --ctv-primary-rgb: 211, 65, 24;
+  --ctv-bdr-color: #F3F3F3;
+  --ctv-bdr-color-rgb: 243, 243, 243;
+  --ctv-bdr2-color: #dbdbdb;
+  --ctv-bdr2-color-rgb: 219, 219, 219;
+}

@@ -958,8 +958,8 @@
     })
   }
 
-  if ($('.oxpins-nice-select').length) {
-    $('.oxpins-nice-select').niceSelect();
+  if ($('.ctv-nice-select').length) {
+    $('.ctv-nice-select').niceSelect();
   }
 
   // Hover Image 
